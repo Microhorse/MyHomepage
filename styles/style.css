@@ -1,0 +1,25 @@
+body {
+    background-color: #f0f0f0;
+    color: #111;
+}
+.name {
+    margin-top: 400px;
+}
+
+.name h1 {
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.profile p {
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.menu a {
+    text-decoration: none;
+    color:rgb(43, 161, 116);
+}
+li {
+    list-style: none;
+}
